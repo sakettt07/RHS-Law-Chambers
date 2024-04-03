@@ -36,7 +36,7 @@ const Home = () => {
             <p className="text-[12px] md:text-[16px]">
               This website{" "}
               <span className="text-blue-600 mb-5">
-                rhs-law-chambers.netlify.app
+                rhs-law-chambers.vercel.app
               </span>{" "}
               and the contents there of are merely for informational purposes
               and not in the nature of solicitation or an advertisement.
@@ -163,14 +163,13 @@ const Home = () => {
                             <div className="p-12 md:pr-24 md:pl-16 md:py-12">
                               <p className="text-gray-600">
                                 <span className="text-gray-900">
-                                  Missguided
+                                  
                                 </span>{" "}
-                                is a UK-based fashion retailer that has nearly
-                                doubled in size since last year.
+                                It was an honor to meet with Shri Tarun Chugh, National General Secretary, BJP at BJP Central office, New Delhi.
                               </p>
                               <a
                                 className="flex items-baseline mt-3 text-indigo-600 hover:text-indigo-900 focus:text-indigo-900"
-                                href=""
+                                href="https://www.linkedin.com/posts/rhs-law-chambers_it-was-an-honor-to-meet-with-shri-tarun-chugh-activity-7140328609063378944-fyJp?utm_source=share&utm_medium=member_desktop"
                               >
                                 <span>Learn more about our users</span>
                                 <span className="text-xs ml-1">&#x279c;</span>
@@ -203,13 +202,9 @@ const Home = () => {
                             <div className="p-12 md:pr-24 md:pl-16 md:py-12">
                               <p className="text-gray-600">
                                 <span className="text-gray-900">
-                                  Missguided
+                                  Free Legal Aid
                                 </span>{" "}
-                                is a UK-based fashion retailer that has nearly
-                                doubled in size since last year. They integrated
-                                Stripe to deliver seamless checkout across
-                                mobile and web for customers in 100+ countries,
-                                all while automatically combating fraud.
+                                We are glad to announce that we are starting with the free legal aid week from today. DM us, contact us for getting free legal advice and aid. 
                               </p>
                               <a
                                 className="flex items-baseline mt-3 text-indigo-600 hover:text-indigo-900 focus:text-indigo-900"
@@ -246,17 +241,14 @@ const Home = () => {
                             <div className="p-12 md:pr-24 md:pl-16 md:py-12">
                               <p className="text-gray-600">
                                 <span className="text-gray-900">
-                                  Missguided
+                                  Intership
                                 </span>{" "}
-                                is a UK-based fashion retailer that has nearly
-                                doubled in size since last year. They integrated
-                                Stripe to deliver seamless checkout across
-                                mobile and web for customers in 100+ countries,
-                                all while automatically combating fraud.
+                                At RHS Law Chambers, we are committed to fostering the next generation of legal minds. Our internship program offers a valuable opportunity for aspiring law students and graduates to gain practical experience working alongside our esteemed team.
                               </p>
                               <a
                                 className="flex items-baseline mt-3 text-indigo-600 hover:text-indigo-900 focus:text-indigo-900"
-                                href=""
+                                href="https://www.linkedin.com/posts/ashhadsajidkhan_im-happy-to-share-that-im-starting-a-new-activity-7150144168240033792-dnMe?utm_source=share&utm_medium=member_desktop"
+                                target="blank"
                               >
                                 <span>Learn more about our users</span>
                                 <span className="text-xs ml-1">&#x279c;</span>
@@ -289,17 +281,13 @@ const Home = () => {
                             <div className="p-12 md:pr-24 md:pl-16 md:py-12">
                               <p className="text-gray-600">
                                 <span className="text-gray-900">
-                                  Missguided
+                                The Central Government
                                 </span>{" "}
-                                is a UK-based fashion retailer that has nearly
-                                doubled in size since last year. They integrated
-                                Stripe to deliver seamless checkout across
-                                mobile and web for customers in 100+ countries,
-                                all while automatically combating fraud.
+                                 has decided to withdraw the three criminal law reform bills - Bharatiya Nyaya Sanhita, Bharatiya Sakshya Bill and Bharatiya Nagarik Suraksha Sanhita- introduced by it in the Lok Sabha to replace the Indian Penal Code, the Indian Evidence Act and the Code of Criminal Procedure respectively.
                               </p>
                               <a
                                 className="flex items-baseline mt-3 text-indigo-600 hover:text-indigo-900 focus:text-indigo-900"
-                                href=""
+                                href="https://www.linkedin.com/posts/rhs-law-chambers_the-central-government-has-decided-to-withdraw-activity-7140327190105157633-BoAH?utm_source=share&utm_medium=member_desktop"
                               >
                                 <span>Learn more about our users</span>
                                 <span className="text-xs ml-1">&#x279c;</span>
@@ -332,17 +320,13 @@ const Home = () => {
                             <div className="p-12 md:pr-24 md:pl-16 md:py-12">
                               <p className="text-gray-600">
                                 <span className="text-gray-900">
-                                  Missguided
+                                  
                                 </span>{" "}
-                                is a UK-based fashion retailer that has nearly
-                                doubled in size since last year. They integrated
-                                Stripe to deliver seamless checkout across
-                                mobile and web for customers in 100+ countries,
-                                all while automatically combating fraud.
+                                Landmark Constitution Judgement on Electoral Bonds
                               </p>
                               <a
                                 className="flex items-baseline mt-3 text-indigo-600 hover:text-indigo-900 focus:text-indigo-900"
-                                href=""
+                                href="https://www.linkedin.com/posts/rhs-law-chambers_landmark-constitution-judgement-on-electoral-activity-7163839249056718848-nti2?utm_source=share&utm_medium=member_desktop"
                               >
                                 <span>Learn more about our users</span>
                                 <span className="text-xs ml-1">&#x279c;</span>
@@ -375,17 +359,13 @@ const Home = () => {
                             <div className="p-12 md:pr-24 md:pl-16 md:py-12">
                               <p className="text-gray-600">
                                 <span className="text-gray-900">
-                                  Missguided
+                                  
                                 </span>{" "}
-                                is a UK-based fashion retailer that has nearly
-                                doubled in size since last year. They integrated
-                                Stripe to deliver seamless checkout across
-                                mobile and web for customers in 100+ countries,
-                                all while automatically combating fraud.
+                                High Court of Delhi Another Argument against DDA/State Authority.
                               </p>
                               <a
                                 className="flex items-baseline mt-3 text-indigo-600 hover:text-indigo-900 focus:text-indigo-900"
-                                href=""
+                                href="https://www.linkedin.com/posts/rhs-law-chambers_high-court-of-delhi-another-argument-against-activity-7160519641084174336-9Ezs?utm_source=share&utm_medium=member_desktop"
                               >
                                 <span>Learn more about our users</span>
                                 <span className="text-xs ml-1">&#x279c;</span>
